@@ -45,7 +45,7 @@ public class BallMoveMent : MonoBehaviour
         {
             MoveBall(new Vector2( 1, 0));
         }
-        MoveBall(new Vector2(-1, 0)); //Huong bay cua ball (bay ve ben trai)
+
 
     }
 
